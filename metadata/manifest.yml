@@ -26,4 +26,4 @@ Group-Overrides:
   - logentries-1.0
   - web_framework
 
-Source-Url: https://github.com/gshipley/openshift-cartridge-logentries.git
+Source-Url: https://github.com/rmazur/logentries_cartridge.git 
